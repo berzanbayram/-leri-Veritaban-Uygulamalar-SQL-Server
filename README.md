@@ -1,0 +1,1 @@
+# -leri-Veritaban-Uygulamalar-SQL-Server
